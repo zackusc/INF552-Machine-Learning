@@ -2,7 +2,7 @@
 Practical applications of machine learning techniques to real-world problems.
 
 ### Homework 1
-1 Classification using KNN on Banknote authentication Dataset
+1. Classification using KNN on Banknote authentication Dataset
 
 Explore the influence of different values of K, distance metrics and voting methods on the results
 
