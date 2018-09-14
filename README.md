@@ -9,3 +9,11 @@ Explore the influence of different values of K, distance metrics and voting meth
 #### 2. Linear Regression on Cycle Powerplant Dataset
 
 Start with simple linear regession for each feature, then do multiple regression, and add nonlinear terms and interaction terms to the model. Finally compare the results of linear regression with KNN regression
+
+### Homework 2 - Human Activity Time Series Classification
+
+* Feature extraction from time series
+* Logistic Regression with Recursive Feature Elimination
+* L1-penalized logistic regression
+* Naive Bayes’ classifier with Gaussian/Multinomial priors
+
