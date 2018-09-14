@@ -17,3 +17,14 @@ Start with simple linear regession for each feature, then do multiple regression
 * L1-penalized logistic regression
 * Naive Bayes’ classifier with Gaussian/Multinomial priors
 
+### Homework 3
+#### 1. Community Crime Rate Prediction
+* Ridge/LASSO Regression
+* PCR
+* Boosting Tree (XGBoost)
+
+#### 2. APS Failure data Classification using Tree-Based Methods
+* Random Forest
+* Handling Class Imbalance
+* Logistic Model Tree by Weka
+
