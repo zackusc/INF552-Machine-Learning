@@ -28,3 +28,7 @@ Start with simple linear regession for each feature, then do multiple regression
 * Handling Class Imbalance
 * Logistic Model Tree by Weka
 
+### Homework 4
+#### 1. Active Learning Using Support Vector Machines
+#### 2. Multi-class and Multi-Label Classification Using SVM
+#### 3. K-Means Clustering on a Multi-Class and Multi-Label Data Set
